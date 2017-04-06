@@ -1,8 +1,0 @@
-C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppBasic\bin\Debug\netcoreapp1.1\ConsoleAppBasic.deps.json
-C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppBasic\bin\Debug\netcoreapp1.1\ConsoleAppBasic.runtimeconfig.json
-C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppBasic\bin\Debug\netcoreapp1.1\ConsoleAppBasic.runtimeconfig.dev.json
-C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppBasic\bin\Debug\netcoreapp1.1\ConsoleAppBasic.dll
-C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppBasic\bin\Debug\netcoreapp1.1\ConsoleAppBasic.pdb
-C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppBasic\obj\Debug\netcoreapp1.1\ConsoleAppBasic.AssemblyInfo.cs
-C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppBasic\obj\Debug\netcoreapp1.1\ConsoleAppBasic.dll
-C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppBasic\obj\Debug\netcoreapp1.1\ConsoleAppBasic.pdb
