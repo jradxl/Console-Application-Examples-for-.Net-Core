@@ -1,0 +1,8 @@
+C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppLocalisation\bin\Debug\netcoreapp1.1\ConsoleAppLocalisation.deps.json
+C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppLocalisation\bin\Debug\netcoreapp1.1\ConsoleAppLocalisation.runtimeconfig.json
+C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppLocalisation\bin\Debug\netcoreapp1.1\ConsoleAppLocalisation.runtimeconfig.dev.json
+C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppLocalisation\bin\Debug\netcoreapp1.1\ConsoleAppLocalisation.dll
+C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppLocalisation\bin\Debug\netcoreapp1.1\ConsoleAppLocalisation.pdb
+C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppLocalisation\obj\Debug\netcoreapp1.1\ConsoleAppLocalisation.AssemblyInfo.cs
+C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppLocalisation\obj\Debug\netcoreapp1.1\ConsoleAppLocalisation.dll
+C:\Projects\Projects\GitHub\Console-Application-Examples-for-.Net-Core\src\ConsoleAppLocalisation\obj\Debug\netcoreapp1.1\ConsoleAppLocalisation.pdb

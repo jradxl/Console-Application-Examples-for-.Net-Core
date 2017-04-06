@@ -1,0 +1,3 @@
+{"Timestamp":"2017-04-07T00:04:18.7997195+01:00","Level":"Information","MessageTemplate":"LogFile Started - This will be written to the rolling file set"}
+{"Timestamp":"2017-04-07T00:04:18.9610554+01:00","Level":"Information","MessageTemplate":"In SomeService Constructor","Properties":{"EventId":{"Id":5000},"SourceContext":"ConsoleAppBasic.Services.SomeService"}}
+{"Timestamp":"2017-04-07T00:04:18.9770672+01:00","Level":"Information","MessageTemplate":"In Application Run","Properties":{"EventId":{"Id":5000},"SourceContext":"ConsoleAppBasic.App.Application"}}

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ConsoleAppBasic": {
+      "commandName": "Project",
+      "commandLineArgs": "Development",
+      "environmentVariables": {
+        "CONSOLEAPP_BASIC_Environment": "Staging"
+      }
+    }
+  }
+}

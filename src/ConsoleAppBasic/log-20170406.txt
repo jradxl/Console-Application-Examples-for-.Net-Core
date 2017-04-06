@@ -1,0 +1,5 @@
+{"Timestamp":"2017-04-06T23:54:50.1325461+01:00","Level":"Information","MessageTemplate":"LogFile Started - This will be written to the rolling file set"}
+{"Timestamp":"2017-04-06T23:54:50.3932401+01:00","Level":"Information","MessageTemplate":"In Application Run","Properties":{"EventId":{"Id":1235},"SourceContext":"ConsoleAppBasic.App.Application"}}
+{"Timestamp":"2017-04-06T23:56:59.8160963+01:00","Level":"Information","MessageTemplate":"LogFile Started - This will be written to the rolling file set"}
+{"Timestamp":"2017-04-06T23:56:59.9458638+01:00","Level":"Information","MessageTemplate":"In SomeService Contructor","Properties":{"EventId":{"Id":1234},"SourceContext":"ConsoleAppBasic.Services.SomeService"}}
+{"Timestamp":"2017-04-06T23:56:59.9558730+01:00","Level":"Information","MessageTemplate":"In Application Run","Properties":{"EventId":{"Id":1235},"SourceContext":"ConsoleAppBasic.App.Application"}}
