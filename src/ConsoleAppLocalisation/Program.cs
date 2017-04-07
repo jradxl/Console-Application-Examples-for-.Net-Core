@@ -8,6 +8,8 @@ namespace ConsoleAppLocalisation
         {
             Console.WriteLine("Welcome to Console App, Localisation. Program starting...");
 
+            //Nothing Yet!!
+
             Console.WriteLine("Press Enter to Quit.");
             Console.ReadLine();
         }
